@@ -1,0 +1,44 @@
+image generation using genetic algorithms
+============================================
+
+About :
+-------
+
+this project is to generate a 100x100 pixel image similar to  a given image using genetic algorithm.
+it uses 100 values to represent a image and a population of 100 value sets (chromosomes) to run
+the algorithm with 100% crossover rate and 2% mutation rate. 
+
+Running :
+----------
+
+This script is written in python. Install 'python' and 'Tkinter' to run the script. (use synaptic package
+manager in Ubuntu to install them).
+
+then use command ,
+
+	python main.py
+
+to run.
+
+More Inf0 :
+--------------
+
+tcg.galahena@gmail.com
+http://www.inf0warri0r.blogspot.com
+
+Licenses :
+----------------
+
+Copyright 2012 Tharindra Galahena
+
+This is free software: you can redistribute it and/or modify it under the terms of
+the GNU General Public License as published by the Free Software Foundation, either
+version 3 of the License, or any later version. This is distributed in the hope
+that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this.
+If not, see http://www.gnu.org/licenses/.
+
+
